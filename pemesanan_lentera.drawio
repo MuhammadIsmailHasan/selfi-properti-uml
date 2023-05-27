@@ -1,9 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T04:56:44.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.4" etag="tKvlarenrxo-B-30SShj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T05:10:08.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dxj8qylVbAV8BLM2re9u" version="21.3.4" type="github">
   <diagram name="Page-1" id="PgxBsIWceGQsbjNBUMpM">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1HrOsq1COPbqvGjdCvi-1" target="Y1HrOsq1COPbqvGjdCvi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1HrOsq1COPbqvGjdCvi-1" target="Y1HrOsq1COPbqvGjdCvi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1HrOsq1COPbqvGjdCvi-1" target="Y1HrOsq1COPbqvGjdCvi-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="150" />
+              <mxPoint x="200" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1HrOsq1COPbqvGjdCvi-1" target="Y1HrOsq1COPbqvGjdCvi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-1" value="Pihak&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-2" value="Petugas POS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-5" value="Petugas PA Ngawi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-9" value="Cek terbit akta cerai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-10" value="Siladuk&lt;br&gt;(booking pengambilan produk)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-11" value="Lentera&lt;br&gt;(layanan antar produk lewat PT Pos)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1HrOsq1COPbqvGjdCvi-12" value="E-Lentera&lt;br&gt;(layanan digital produk)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
